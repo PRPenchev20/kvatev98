@@ -38,3 +38,49 @@
 <code><img  alt="Git" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" ></code>
 <code><img  alt="GitHub" width="26px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" ></code>
 <code><img  alt="Terminal" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png" ></code>
+
+<br/>
+<hr>
+### Projects and Dev Stuffs:
+
+<details>	
+  <summary><b>⚡ Github Stats</b></summary>
+
+![Grade](https://github-readme-stats.vercel.app/api?username=ssivanov19&show_icons=true&theme=radical&count_private=true)
+![Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ssivanov19&show_icons=true&hide_border=true&layout=compact&count_private=true&count_fork=true)
+</details>
+<details>
+  <summary><b>🐍 Contribution Graph</b></summary>
+  <img src="https://github.com/SSIvanov19/ssivanov19/blob/output/github-contribution-grid-snake.gif" alt="snake gif">
+</details>
+<details>
+  <summary><b>🧑‍🚀 Repositories</b></summary>
+
+[![Math Games 2020](https://github-readme-stats.vercel.app/api/pin/?username=ssivanov19&repo=math-games-2020)](https://github.com/SSIvanov19/math-games-2020)
+[![Final FinalProject-Unity](https://github-readme-stats.vercel.app/api/pin/?username=IDIliev18&repo=FinalProject-Unity)](https://github.com/IDIliev18/FinalProject-Unity)
+  [![Fire department 2021](https://github-readme-stats.vercel.app/api/pin/?username=ssivanov19&repo=fire-department-2021)](https://github.com/SSIvanov19/fire-department-2021)
+[![Chupacabra](https://github-readme-stats.vercel.app/api/pin/?username=idiliev18&repo=chupacabra)](https://github.com/idiliev18/chupacabra)
+</details>
+<details>
+  <summary><b>📚 Badges</b></summary>
+  <!--START_SECTION:badges-->
+
+[![Microsoft Excel (Office 2016)](https://images.credly.com/size/110x110/images/d0790dc7-5127-4262-a492-1b60030b0114/MOS_Excel.png)](http://www.credly.com/badges/41931c0f-5be8-4e13-b3fa-82f0defd1957 "Microsoft Excel (Office 2016)")
+[![MTA: Introduction to Programming Using HTML and CSS - Certified 2021](https://images.credly.com/size/110x110/images/241488f4-9110-41aa-804e-51a8f8ba430d/MTA-Introduction_to_Programming_Using_HTML_and_CSS-600x600.png)](http://www.credly.com/badges/50443da3-91dc-4cda-b602-2a9db3d76249 "MTA: Introduction to Programming Using HTML and CSS - Certified 2021")
+[![Microsoft Word (Office 2016)](https://images.credly.com/size/110x110/images/fd092703-61db-4e9f-9c7c-2211d44ca87d/MOS_Word.png)](http://www.credly.com/badges/e6d36159-6402-4420-ac42-45407b356dda "Microsoft Word (Office 2016)")
+[![MTA: Introduction to Programming Using JavaScript - Certified 2021](https://images.credly.com/size/110x110/images/16840ea3-5c9a-4599-853e-7e15bac7748e/MTA-Introduction_to_Programming_Using_JavaScript-600x600.png)](http://www.credly.com/badges/a6f166f2-d8e6-4890-9686-3e2721bc1123 "MTA: Introduction to Programming Using JavaScript - Certified 2021")
+<!--END_SECTION:badges-->
+</details>  
+<details>	
+  <summary><b>🎵 Spotify things</b></summary>
+
+  ![Spotify](https://novatorem-green-omega.vercel.app/api/spotify)
+</details>
+
+#
+
+<div align="center">
+
+### Show some ❤️ by starring some of the repositories!
+
+</div>
