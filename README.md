@@ -19,10 +19,10 @@
 <hr>
 ### Connect with me:
 
-[<img align="left" alt="https://www.facebook.com/krasivatev" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />]
-[<img align="left" alt="https://outlook.office.com/mail/inbox" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />]
-[<img align="left" alt="codeSTACKr | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />]
-[<img align="left" alt="codeSTACKr | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />]
+<img align="left" alt="https://www.facebook.com/krasivatev" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />
+<img align="left" alt="https://outlook.office.com/mail/inbox" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />
+<img align="left" alt="codeSTACKr | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
+<img align="left" alt="codeSTACKr | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />
 
 <br/>
 
@@ -66,12 +66,16 @@
   <!--START_SECTION:badges-->
 
 [![Microsoft Excel (Office 2016)](https://images.credly.com/size/110x110/images/d0790dc7-5127-4262-a492-1b60030b0114/MOS_Excel.png)](http://www.credly.com/badges/41931c0f-5be8-4e13-b3fa-82f0defd1957 "Microsoft Excel (Office 2016)")
+  
+  <div data-iframe-width="150" data-iframe-height="270" data-share-badge-id="b25fd806-cdc5-4296-a6ff-3e651e00ec07" data-share-badge-host="https://www.credly.com"></div><script type="text/javascript" async src="//cdn.credly.com/assets/utilities/embed.js"></script>
+  
 <!--END_SECTION:badges-->
 </details>  
+
 <details>	
   <summary><b>🎵 Spotify things</b></summary>
 
-  ![Spotify](https://novatorem-green-omega.vercel.app/api/spotify)
+  ![Spotify](https://open.spotify.com/playlist/37i9dQZF1E36KHfKUJktIJ?si=f039fcb59a354919)
 </details>
 
 #
