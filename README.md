@@ -67,7 +67,9 @@
 
 [![Microsoft Excel (Office 2016)](https://images.credly.com/size/110x110/images/d0790dc7-5127-4262-a492-1b60030b0114/MOS_Excel.png)](http://www.credly.com/badges/41931c0f-5be8-4e13-b3fa-82f0defd1957 "Microsoft Excel (Office 2016)")
   
-  <div data-iframe-width="150" data-iframe-height="270" data-share-badge-id="b25fd806-cdc5-4296-a6ff-3e651e00ec07" data-share-badge-host="https://www.credly.com"></div><script type="text/javascript" async src="//cdn.credly.com/assets/utilities/embed.js"></script>
+  [![Microsoft Excel (Office 2016)](https://images.credly.com/size/110x110/images/d0790dc7-5127-4262-a492-1b60030b0114/MOS_Excel.png)](https://www.credly.com/earner/earned/badge/da3b8673-1926-4ffc-b356-b0863bbb974f" Microsoft Excel (Office 2016)")
+   [![Microsoft Word (Office 2016)](https://images.credly.com/size/680x680/images/fd092703-61db-4e9f-9c7c-2211d44ca87d/MOS_Word.png)](https://www.credly.com/badges/b25fd806-cdc5-4296-a6ff-3e651e00ec07/public_url" Microsoft Word (Office 2016)")
+ 
   
 <!--END_SECTION:badges-->
 </details>  
