@@ -12,20 +12,19 @@
 - 👾 &nbsp; Fun fact: 
 - 📫 &nbsp; How to reach me: kvatev@codingburgas.bg
 
-<br/>
 <hr>
 ### My Absolute Favorites:
 
-<br/>
 <hr>
+
 ### Connect with me:
 
 <img align="left" alt="https://www.facebook.com/krasivatev" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />
 <img align="left" alt="https://outlook.office.com/mail/inbox" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />
 <img align="left" alt="codeSTACKr | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
 <img align="left" alt="codeSTACKr | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />
-
 <br/>
+<hr>
 
 ### Languages and Tools:
 
@@ -40,28 +39,28 @@
 <code><img  alt="GitHub" width="26px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" ></code>
 <code><img  alt="Terminal" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png" ></code>
 
-<br/>
 <hr>
 ### Projects and Dev Stuffs:
 
 <details>	
   <summary><b>⚡ Github Stats</b></summary>
 
-![Grade](https://github-readme-stats.vercel.app/api?username=ssivanov19&show_icons=true&theme=radical&count_private=true)
-![Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ssivanov19&show_icons=true&hide_border=true&layout=compact&count_private=true&count_fork=true)
+![Grade](https://github-readme-stats.vercel.app/api?username=kvatev98&show_icons=true&theme=radical&count_private=true)
+![Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=kvatev98&show_icons=true&hide_border=true&layout=compact&count_private=true&count_fork=true)
 </details>
+
 <details>
   <summary><b>🐍 Contribution Graph</b></summary>
-  <img src="https://github.com/SSIvanov19/ssivanov19/blob/output/github-contribution-grid-snake.gif" alt="snake gif">
+  <img src="https://res.cloudinary.com/practicaldev/image/fetch/s--D-e-SdGc--/c_imagga_scale,f_auto,fl_progressive,h_420,q_66,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/legnuefb30fdf1owkh98.gif" alt="snake gif">
 </details>
+
 <details>
   <summary><b>🧑‍🚀 Repositories</b></summary>
 
 [![Math Games 2020](https://github-readme-stats.vercel.app/api/pin/?username=ssivanov19&repo=math-games-2020)](https://github.com)
-[![Final FinalProject-Unity](https://github-readme-stats.vercel.app/api/pin/?username=IDIliev18&repo=FinalProject-Unity)](https://github.com)
-  [![Fire department 2021](https://github-readme-stats.vercel.app/api/pin/?username=ssivanov19&repo=fire-department-2021)](https://github.com)
-[![Chupacabra](https://github-readme-stats.vercel.app/api/pin/?username=idiliev18&repo=chupacabra)](https://github.com)
+[![Fire department 2021](https://github-readme-stats.vercel.app/api/pin/?username=ssivanov19&repo=fire-department-2021)](https://github.com)
 </details>
+
 <details>
   <summary><b>📚 Badges</b></summary>
   <!--START_SECTION:badges-->
@@ -70,7 +69,7 @@
   
    [![Microsoft Word (Office 2016)](https://images.credly.com/size/680x680/images/fd092703-61db-4e9f-9c7c-2211d44ca87d/MOS_Word.png)](https://www.credly.com/earner/earned/badge/b25fd806-cdc5-4296-a6ff-3e651e00ec07 " Microsoft Word (Office 2016)")
   
- [![MTA: Introduction to Programming Using JavaScript]("https://images.credly.com/size/680x680/images/16840ea3-5c9a-4599-853e-7e15bac7748e/MTA-Introduction_to_Programming_Using_JavaScript-600x600.png)](https://www.credly.com/earner/earned/badge/0b2cf9f0-e2cf-414b-9358-e4f84dc5e615 " MTA: Introduction to Programming Using JavaScript")
+ [![MTA: Introduction to Programming Using JavaScript](https://images.credly.com/size/680x680/images/16840ea3-5c9a-4599-853e-7e15bac7748e/MTA-Introduction_to_Programming_Using_JavaScript-600x600.png)](https://www.credly.com/earner/earned/badge/0b2cf9f0-e2cf-414b-9358-e4f84dc5e615 " MTA: Introduction to Programming Using JavaScript")
   
 <!--END_SECTION:badges-->
 </details>  
