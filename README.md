@@ -1,4 +1,4 @@
-### Hi, my name is [Krasimir Vatev](https://github.com/kvatev98/).
+### Hi, my name is [Krasimir Vatev](https://github.com/kvatev98/)👋
 
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fkvatev98&count_bg=%2379C83D&title_bg=%23555555&icon=nucleo.svg&icon_color=%23F7F7F7&title=Visitors&edge_flat=false)](https://hits.seeyoufarm.com)
 
@@ -6,11 +6,14 @@
 
 ### Talking about Personal Stuffs:
 
-- 🚀 &nbsp; I’m currently learning Unity, C++ and JS.
-- 👨🏻‍💻 &nbsp; Most of my projects are available on [Github](https://github.com/SSIvanov19?tab=repositories).
-- 👾 &nbsp; Fun fact: Equal is Not Always Equal in Javascript.
-- 📫 &nbsp; How to reach me: SSIvanov19@codingburgas.bg
+- 🚀 &nbsp; I’m currently learning HTML5&CSS3 and C++ .
+- 👨🏻‍💻 &nbsp; Most of my projects are available on [Github](https://github.com/kvatev98?tab=repositories).
+- 👾 &nbsp; Fun fact: 
+- 📫 &nbsp; How to reach me: kvatev@codingburgas.bg
 
+<br/>
+<hr>
+### My Absolute Favorites:
 <br/>
 <hr>
 ### Connect with me:
