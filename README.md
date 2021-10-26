@@ -1,4 +1,5 @@
 ### Hi, my name is [Krasimir Vatev](https://github.com/kvatev98/)👋
+<hr>
 
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fkvatev98&count_bg=%2379C83D&title_bg=%23555555&icon=nucleo.svg&icon_color=%23F7F7F7&title=Visitors&edge_flat=false)](https://hits.seeyoufarm.com)
 
@@ -67,7 +68,6 @@
 
 [![Microsoft Excel (Office 2016)](https://images.credly.com/size/110x110/images/d0790dc7-5127-4262-a492-1b60030b0114/MOS_Excel.png)](http://www.credly.com/badges/41931c0f-5be8-4e13-b3fa-82f0defd1957 "Microsoft Excel (Office 2016)")
   
-  [![Microsoft Excel (Office 2016)](https://images.credly.com/size/110x110/images/d0790dc7-5127-4262-a492-1b60030b0114/MOS_Excel.png)](https://www.credly.com/earner/earned/badge/da3b8673-1926-4ffc-b356-b0863bbb974f" Microsoft Excel (Office 2016)")
    [![Microsoft Word (Office 2016)](https://images.credly.com/size/680x680/images/fd092703-61db-4e9f-9c7c-2211d44ca87d/MOS_Word.png)](https://www.credly.com/badges/b25fd806-cdc5-4296-a6ff-3e651e00ec07/public_url" Microsoft Word (Office 2016)")
  
   
