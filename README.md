@@ -1,11 +1,11 @@
-### Hi, my name is [Krasimir Vatev](https://github.com/kvatev98/)👋
+# Hi, my name is [Krasimir Vatev](https://github.com/kvatev98/)👋
 <hr>
 
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fkvatev98&count_bg=%2379C83D&title_bg=%23555555&icon=nucleo.svg&icon_color=%23F7F7F7&title=Visitors&edge_flat=false)](https://hits.seeyoufarm.com)
 
 <img align="right" height="250" width="375" alt="" src="https://challengepost-s3-challengepost.netdna-ssl.com/photos/production/software_photos/000/456/275/datas/original.gif" />
 
-### Talking about Personal Stuffs:
+## Talking about Personal Stuffs:
 
 - 🚀 &nbsp; I’m currently learning HTML5&CSS3 and C++ .
 - 👨🏻‍💻 &nbsp; Most of my projects are available on [Github](https://github.com/kvatev98?tab=repositories).
@@ -13,17 +13,14 @@
 - 📫 &nbsp; How to reach me: kvatev@codingburgas.bg
 
 <hr>
-### My Absolute Favorites:
-
-<hr>
 
 ### Connect with me:
 
-<img align="left" alt="https://www.facebook.com/krasivatev" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />
+<a href ="http://www.google.com" ><img align="left" alt="https://www.facebook.com/krasivatev" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" /><a/>
 <img align="left" alt="https://outlook.office.com/mail/inbox" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />
 <img align="left" alt="codeSTACKr | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
 <img align="left" alt="codeSTACKr | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />
-<br/>
+<br>
 <hr>
 
 ### Languages and Tools:
@@ -63,27 +60,16 @@
 
 <details>
   <summary><b>📚 Badges</b></summary>
-  <!--START_SECTION:badges-->
 
-[![Microsoft Excel (Office 2016)](https://images.credly.com/size/110x110/images/d0790dc7-5127-4262-a492-1b60030b0114/MOS_Excel.png)](http://www.credly.com/badges/41931c0f-5be8-4e13-b3fa-82f0defd1957 "Microsoft Excel (Office 2016)")
+<code><a href ="http://www.credly.com/badges/41931c0f-5be8-4e13-b3fa-82f0defd1957"><img align="left" alt="Excel" width="200px" src="https://images.credly.com/size/110x110/images/d0790dc7-5127-4262-a492-1b60030b0114/MOS_Excel.png" ></a></code>
   
-   [![Microsoft Word (Office 2016)](https://images.credly.com/size/680x680/images/fd092703-61db-4e9f-9c7c-2211d44ca87d/MOS_Word.png)](https://www.credly.com/earner/earned/badge/b25fd806-cdc5-4296-a6ff-3e651e00ec07 " Microsoft Word (Office 2016)")
-  
- [![MTA: Introduction to Programming Using JavaScript](https://images.credly.com/size/680x680/images/16840ea3-5c9a-4599-853e-7e15bac7748e/MTA-Introduction_to_Programming_Using_JavaScript-600x600.png)](https://www.credly.com/earner/earned/badge/0b2cf9f0-e2cf-414b-9358-e4f84dc5e615 " MTA: Introduction to Programming Using JavaScript")
-  
-<!--END_SECTION:badges-->
+  <code><a href ="https://www.credly.com/earner/earned/badge/b25fd806-cdc5-4296-a6ff-3e651e00ec07"><img align="left" alt="Word Office 2016" width="200px" src="https://images.credly.com/size/680x680/images/fd092703-61db-4e9f-9c7c-2211d44ca87d/MOS_Word.png" ></a></code>
 </details>  
 
-<details>	
-  <summary><b>🎵 Spotify things</b></summary>
-
-  ![Spotify](https://open.spotify.com/playlist/37i9dQZF1E36KHfKUJktIJ?si=f039fcb59a354919)
-</details>
-
-#
-
+<br>
+  <hr>
 <div align="center">
 
-### Foucus on yourself not others!
+# Foucus on yourself not others!
 
 </div>
